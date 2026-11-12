@@ -1,0 +1,11 @@
+# Install a CUDA-compatible PyTorch build separately for your system.
+# Versions below are not pinned because the original environment was not exported.
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+pandas
+tqdm
+jupyter
+ipykernel
